@@ -1,70 +1,42 @@
-<!-- Ikram Savant | GitHub Profile README -->
+# 👋 Hi there, I'm [Your Name]!
 
-<h1>👋 Hi there, I'm <span style="color:#5e9cff;">Ikram Savant</span></h1>
-
-<h3>🎓 Software Engineering Student at Cardiff Metropolitan University</h3>
-<h4>💻 Passionate about Web Development | Mobile Apps | Java & Python</h4>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ikram-baskad/github-readme-stats)
-
----
-
-### 🧭 About Me
-I'm a motivated and detail-oriented **Software Engineering student** dedicated to crafting clean, efficient, and creative digital solutions.  
-I enjoy merging **technical precision** with **design thinking**, whether I’m developing a web app, mobile UI, or backend logic.  
-Currently, I’m focusing on enhancing my **full-stack development** skills and seeking **internship opportunities** to apply my learning in real-world projects.
+## 🧠 About Me
+- 💻 Aspiring Software Engineer passionate about web and mobile development  
+- 🎓 Studying Computer Science at [Your University / School]  
+- 🌱 Currently learning *Flutter, **React, and **Node.js*  
+- 🎥 Creating content about *tech, **coding, and **productivity*  
+- 🌻 #learninginpublic and documenting my journey  
 
 ---
 
-### 🧠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@yourusername)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
 
 ---
 
-### 🏗️ Featured Projects
-#### 📦 **Warehouse Management System (Java + MySQL)**
-A full-stack warehouse system including a backend database, product management, and login/logout functionality.
-
-#### 🎓 **Academic Events Website (HTML, CSS, JS)**
-Dynamic web platform for managing and promoting academic events, with a structured frontend-backend connection.
-
-#### 🍔 **Mobile Food Delivery UI (Flutter)**
-A clean and responsive mobile app UI showcasing a restaurant ordering experience.
-
-*(Find more in my repositories!)*
-
----
-
-### 🌍 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-### ✨ Quote
-> *"Code is more than syntax — it’s how we turn ideas into innovation."*
+## 📊 GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
+⭐ From [Your Name](https://github.com/yourusername)
