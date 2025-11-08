@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Ikram Baskad
+# 👋 Hello
+## I'm Ikram
 
 ## 🧠 About Me
 - 💻 Software Engineering Student passionate about web and mobile development  
@@ -45,6 +46,7 @@
 
 ## 📊 GitHub Stats
 ![ikram GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikram-baskad&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikram-baskad&theme=radical)
 
 ---
