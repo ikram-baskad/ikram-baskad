@@ -1,9 +1,11 @@
 <!-- Ikram Savant | GitHub Profile README -->
 
-<h1 align="center">👋 Hi there, I'm <span style="color:#5e9cff;">Ikram Savant</span></h1>
+<h1>👋 Hi there, I'm <span style="color:#5e9cff;">Ikram Savant</span></h1>
 
-<h3 align="center">🎓 Software Engineering Student at Cardiff Metropolitan University</h3>
-<h4 align="center">💻 Passionate about Web Development | Mobile Apps | Java & Python</h4>
+<h3>🎓 Software Engineering Student at Cardiff Metropolitan University</h3>
+<h4>💻 Passionate about Web Development | Mobile Apps | Java & Python</h4>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ikram-baskad/github-readme-stats)
 
 ---
 
@@ -32,7 +34,7 @@ Currently, I’m focusing on enhancing my **full-stack development** skills and 
 #### 📦 **Warehouse Management System (Java + MySQL)**
 A full-stack warehouse system including a backend database, product management, and login/logout functionality.
 
-#### 🎓 **Academic Events Website (HTML, CSS, JS, Express.js)**
+#### 🎓 **Academic Events Website (HTML, CSS, JS)**
 Dynamic web platform for managing and promoting academic events, with a structured frontend-backend connection.
 
 #### 🍔 **Mobile Food Delivery UI (Flutter)**
