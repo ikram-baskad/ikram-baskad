@@ -1,5 +1,4 @@
-# 👋 Hello
-## I'm Ikram
+# 👋 Hello I'm Ikram
 
 ## 🧠 About Me
 - 💻 Software Engineering Student passionate about web and mobile development  
