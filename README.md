@@ -3,10 +3,11 @@
 ## 🧠 About Me
 - 💻 Software Engineering Student passionate about web and mobile development  
 - 🎓 Studying Software Engineering at Cardiff Metropolitan University  
-- 🌱 Currently learning *Flutter, **React, and **Node.js*    
-- 🎨 A creative person who enjoys designing *logos, **posters, and **digital content*  
-- 💡 I love solving real-world problems through clean, efficient code  
-- 🌻 #learninginpublic and sharing my journey in tech 
+- 🌱 Currently learning Flutter, React    
+- 🎨 A creative person who enjoys designing logos, posters, and digital content 
+- 💡 I love solving real-world problems through clean, efficient code
+- 🚀 Actively seeking internship opportunities to gain hands-on experience and grow my professional skills 
+- 🌻 learninginpublic and sharing my journey in tech 
 
 ---
 
@@ -34,11 +35,11 @@
 
 ## 💼 Soft Skills
 
-- 🧩 *Microsoft Office* (Word, Excel, PowerPoint, Basics of Power BI)  
-- 🗂 *Organizational Skills* – structured planning & task prioritization  
-- 💼 *Business Management Skills* – understanding project and team dynamics  
-- ⏰ *Time Management* – balancing multiple priorities efficiently  
-- 🤝 *Teamwork* – collaborating effectively with peers and colleagues
+- 🧩 Microsoft Office (Word, Excel, PowerPoint, Basics of Power BI)  
+- 🗂 Organizational Skills – structured planning & task prioritization  
+- 💼 Business Management Skills – understanding project and team dynamics  
+- ⏰ Time Management – balancing multiple priorities efficiently  
+- 🤝 Teamwork – collaborating effectively with peers and colleagues
 
 ---
 
