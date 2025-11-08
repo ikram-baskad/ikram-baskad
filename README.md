@@ -1,29 +1,43 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Ikram Baskad
 
 ## 🧠 About Me
-- 💻 Aspiring Software Engineer passionate about web and mobile development  
-- 🎓 Studying Computer Science at [Your University / School]  
-- 🌱 Currently learning *Flutter, **React, and **Node.js*  
-- 🎥 Creating content about *tech, **coding, and **productivity*  
-- 🌻 #learninginpublic and documenting my journey  
+- 💻 Software Engineering Student passionate about web and mobile development  
+- 🎓 Studying Software Engineering at Cardiff Metropolitan University  
+- 🌱 Currently learning *Flutter, **React, and **Node.js*    
+- 🎨 A creative person who enjoys designing *logos, **posters, and **digital content*  
+- 💡 I love solving real-world problems through clean, efficient code  
+- 🌻 #learninginpublic and sharing my journey in tech 
 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-baskad-8b6aa2307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
-## 💻 Tech Stack
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+## 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+---
+
+## 💼 Soft Skills
+
+- 🧩 *Microsoft Office* (Word, Excel, PowerPoint, Basics of Power BI)  
+- 🗂 *Organizational Skills* – structured planning & task prioritization  
+- 💼 *Business Management Skills* – understanding project and team dynamics  
+- ⏰ *Time Management* – balancing multiple priorities efficiently  
+- 🤝 *Teamwork* – collaborating effectively with peers and colleagues
 
 ---
 
