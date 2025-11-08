@@ -44,8 +44,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![ikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikram-baskad&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikram-baskad&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikram-baskad&theme=radical)
 
 ---
